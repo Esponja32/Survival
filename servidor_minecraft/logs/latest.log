@@ -1,0 +1,1527 @@
+[19:18:54] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.17.2
+[19:18:59] [main/WARN]: Warnings were found!
+ - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
+	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
+[19:18:59] [main/INFO]: Loading 190 mods:
+	- advancednetherite 2.1.3-1.20.1
+	- almanac 1.0.2
+	- architectury 9.2.14
+	- balm 7.3.37
+	   \-- kuma_api 20.1.12
+	- cardinal-components 5.2.3
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-block 5.2.3
+	   |-- cardinal-components-chunk 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- cardinal-components-item 5.2.3
+	   |-- cardinal-components-level 5.2.3
+	   |-- cardinal-components-scoreboard 5.2.3
+	   \-- cardinal-components-world 5.2.3
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- copperagebackport 0.1.4
+	- coroutil 1.20.1-1.3.7
+	- crawl 0.12.0
+	   \-- mm 2.3
+	- create 6.0.8.1+build.1744-mc1.20.1
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- flywheel 1.0.5+1.20.1.build.264
+	   |-- milk 1.2.60
+	   |    \-- dripstone_fluid_lib 3.0.2
+	   |-- ponder 1.0.91
+	   |    |-- com_google_code_findbugs_jsr305 3.0.2
+	   |    |-- flywheel 1.0.0
+	   |    \-- javax_annotation_javax_annotation-api 1.3.2
+	   |-- porting_lib_accessors 2.3.13+1.20.1
+	   |    \-- porting_lib_core 2.3.13+1.20.1
+	   |-- porting_lib_base 2.3.13+1.20.1
+	   |    |-- porting_lib_attributes 2.3.13+1.20.1
+	   |    |-- porting_lib_common 2.3.13+1.20.1
+	   |    |-- porting_lib_config 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    |-- porting_lib_fluids 2.3.13+1.20.1
+	   |    |-- porting_lib_gui_utils 2.3.13+1.20.1
+	   |    |-- porting_lib_lazy_registration 2.3.13+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.13+1.20.1
+	   |    |-- porting_lib_utility 2.3.13+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_brewing 2.3.13+1.20.1
+	   |    \-- porting_lib_core 2.3.13+1.20.1
+	   |-- porting_lib_client_events 2.3.13+1.20.1
+	   |    \-- porting_lib_core 2.3.13+1.20.1
+	   |-- porting_lib_entity 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    \-- porting_lib_mixin_extensions 2.3.13+1.20.1
+	   |-- porting_lib_extensions 2.3.13+1.20.1
+	   |    |-- porting_lib_attributes 2.3.13+1.20.1
+	   |    |-- porting_lib_common 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_model_generators 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    |-- porting_lib_data 2.3.13+1.20.1
+	   |    |-- porting_lib_model_materials 2.3.13+1.20.1
+	   |    \-- porting_lib_utility 2.3.13+1.20.1
+	   |-- porting_lib_models 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    |-- porting_lib_fluids 2.3.13+1.20.1
+	   |    \-- porting_lib_model_loader 2.3.13+1.20.1
+	   |-- porting_lib_networking 2.3.13+1.20.1
+	   |    \-- porting_lib_core 2.3.13+1.20.1
+	   |-- porting_lib_obj_loader 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    \-- porting_lib_model_loader 2.3.13+1.20.1
+	   |-- porting_lib_tool_actions 2.3.13+1.20.1
+	   |    \-- porting_lib_core 2.3.13+1.20.1
+	   |-- porting_lib_transfer 2.3.13+1.20.1
+	   |    |-- porting_lib_core 2.3.13+1.20.1
+	   |    \-- porting_lib_fluids 2.3.13+1.20.1
+	   |-- reach-entity-attributes 2.4.0
+	   \-- registrate-fabric 1.3.79-MC1.20.1
+	        |-- com_google_code_findbugs_jsr305 3.0.2
+	        \-- porting_lib_tags 3.0
+	             \-- porting_lib_gametest 2.1.1090+1.20
+	- creativecore 2.12.34
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- eldritch_mobs 1.15.2
+	   |-- polymer-blocks 0.5.15+1.20.1
+	   |-- polymer-core 0.5.15+1.20.1
+	   |    |-- polymer-networking 0.5.15+1.20.1
+	   |    |    \-- polymer-common 0.5.15+1.20.1
+	   |    |         \-- packet_tweaker 0.4.0+1.19.4
+	   |    \-- polymer-registry-sync-manipulator 0.5.15+1.20.1
+	   \-- server_translations_api 2.0.0+1.20
+	        \-- packet_tweaker 0.4.0+1.19.4
+	- fabric-api 0.92.6+1.20.1
+	   |-- fabric-api-base 0.4.32+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.37+1802ada577
+	   |-- fabric-biome-api-v1 13.0.14+1802ada577
+	   |-- fabric-block-api-v1 1.0.12+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.3+924f046a77
+	   |-- fabric-blockrenderlayer-v1 1.1.42+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.3+1802ada577
+	   |-- fabric-command-api-v1 1.2.35+f71b366f77
+	   |-- fabric-command-api-v2 2.2.14+1802ada577
+	   |-- fabric-commands-v0 0.2.52+df3654b377
+	   |-- fabric-containers-v0 0.1.67+df3654b377
+	   |-- fabric-content-registries-v0 4.0.13+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.6+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.20+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.2+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.7+1802ada577
+	   |-- fabric-dimensions-v1 2.1.55+1802ada577
+	   |-- fabric-entity-events-v1 1.6.1+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.5+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.64+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.41+1802ada577
+	   |-- fabric-item-api-v1 2.1.29+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.14+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.38+1802ada577
+	   |-- fabric-keybindings-v0 0.2.36+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.23+1802ada577
+	   |-- fabric-loot-api-v2 1.2.3+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.47+9e7660c677
+	   |-- fabric-message-api-v1 5.1.10+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.52+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.4+1802ada577
+	   |-- fabric-models-v0 0.4.3+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.14+a158aa0477
+	   |-- fabric-networking-v0 0.3.54+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.5+e35120df77
+	   |-- fabric-particles-v1 1.1.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.24+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.6+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.2+1802ada577
+	   |-- fabric-renderer-indigo 1.5.3+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.47+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.29+1802ada577
+	   |-- fabric-rendering-v0 1.1.50+df3654b377
+	   |-- fabric-rendering-v1 3.0.9+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.9+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.12+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.9+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.33+1802ada577
+	   |-- fabric-sound-api-v1 1.0.14+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.6+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.2+1802ada577
+	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- fallingtree 4.3.4
+	- fastmove 1.0.8
+	- forgeconfigapiport 8.0.3
+	- geckolib 4.8.2
+	   \-- com_eliotlash_mclib_mclib 20
+	- glitchcore 0.0.1.1
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- immersive_aircraft 1.4.0+1.20.1
+	   \-- org_mariuszgromada_math_mathparser_org-mxparser 5.2.1
+	- jamlib 1.3.5+1.20.1
+	   \-- blue_endless_jankson 1.2.3
+	- java 17
+	- justhammers 20.1.5+mc1.20.1
+	- k_turrets 1.0.5-1.20.1
+	- magistuarmory 9.31
+	- magistuarmoryaddon 1.22
+	- man_of_many_planes 0.2.0+1.20.1
+	- measurements 2.0.1
+	- minecraft 1.20.1
+	- mr_epicterrain 0.2.5
+	- mr_veinminer 1.1.0
+	- mru 1.0.4+1.20.1+fabric
+	- mutantmonsters 8.0.8
+	   \-- extensibleenums 7.0.1
+	- mutantszombies 1.3.1-Fabric-mc1.20.1
+	- obscure_api 16
+	- owo 0.11.2+1.20
+	- platform 1.2.11.3
+	- player-animator 1.0.2-rc1+1.20
+	- puzzleslib 8.1.33
+	   \-- puzzlesaccessapi 20.1.1
+	- railways 1.6.14-beta+fabric-mc1.20.1
+	   \-- mm 2.3
+	- regions_unexplored 0.5.6+1.20.1
+	- retraining 1.3.1
+	- rightclickharvest 4.6.0+1.20.1
+	- satako 2.0.4-1.20.1
+	- seriousplayeranimations 1.1.1
+	- silk-all 1.10.1
+	   |-- silk-commands 1.10.1
+	   |-- silk-core 1.10.1
+	   |-- silk-game 1.10.1
+	   |-- silk-igui 1.10.1
+	   |-- silk-nbt 1.10.1
+	   |-- silk-network 1.10.1
+	   \-- silk-persistence 1.10.1
+	- simplyswords 1.56.0-1.20.1
+	   \-- spruceui 5.0.0+1.20
+	- smallships 2.0.0-b1.4
+	- structory 1.3.5
+	- tacz 0.2.0-forge1.1.7
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- com_github_figuramc_luaj_luaj-core 3.0.8-figura
+	   |-- com_github_figuramc_luaj_luaj-jse 3.0.8-figura
+	   |-- mkb 1.2.0
+	   |-- org_apache_bcel_bcel 6.6.1
+	   \-- org_apache_commons_commons-math3 3.6.1
+	- terrablender 3.0.1.10
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- toughasnails 9.2.0.171
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- travelersbackpack 9.1.43
+	   \-- reach-entity-attributes 2.4.0
+	- undeadnights 1.3.2-Fabric-mc1.20.1
+	- vanillabackport 1.1.5.1
+	- vc_gliders 1.1.7
+	   \-- palladiumcore 1.20-2.0.0.0
+	- waystones 14.1.17
+	- weaponmaster_ydm 4.2.3
+	- yigd 2.0.16
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- libgui 8.1.1+1.20.1
+	        |-- jankson 6.0.0+j1.2.3
+	        \-- libninepatch 1.2.0
+	- zombieawareness 1.20.1-1.13.1
+[19:19:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:19:02] [main/INFO]: Compatibility level set to JAVA_17
+[19:19:02] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:19:02] [main/WARN]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:19:02] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:19:02] [main/WARN]: Reference map 'puzzlesaccessapi.fabric.refmap.json' for puzzlesaccessapi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:19:02] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:19:03] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[19:19:03] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[19:19:03] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[19:19:03] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[19:19:03] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[19:19:03] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[19:19:03] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[19:19:03] [main/WARN]: @Mixin target net.minecraft.class_572 was not found fastmove.mixins.json:BipedEntityModelMixin from mod fastmove
+[19:19:03] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[19:19:04] [main/WARN]: Error loading class: dev/engine_room/flywheel/lib/visual/AbstractVisual (java.lang.ClassNotFoundException: dev/engine_room/flywheel/lib/visual/AbstractVisual)
+[19:19:04] [main/WARN]: @Mixin target dev.engine_room.flywheel.lib.visual.AbstractVisual was not found railways-common.mixins.json:client.AccessorAbstractVisual from mod railways
+[19:19:04] [main/WARN]: Error loading class: net/minecraft/class_972 (java.lang.ClassNotFoundException: net/minecraft/class_972)
+[19:19:04] [main/WARN]: @Mixin target net.minecraft.class_972 was not found seriousplayeranimations.mixins.json:CapeRenderMixin from mod seriousplayeranimations
+[19:19:04] [main/WARN]: Error loading class: net/mehvahdjukaar/moonlight/api/set/leaves/LeavesType (java.lang.ClassNotFoundException: net/mehvahdjukaar/moonlight/api/set/leaves/LeavesType)
+[19:19:04] [main/WARN]: Error loading class: net/mehvahdjukaar/moonlight/api/set/wood/WoodType (java.lang.ClassNotFoundException: net/mehvahdjukaar/moonlight/api/set/wood/WoodType)
+[19:19:04] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[19:19:04] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
+[19:19:04] [main/WARN]: Error loading class: net/minecraft/class_1132 (java.lang.ClassNotFoundException: net/minecraft/class_1132)
+[19:19:04] [main/WARN]: @Mixin target net.minecraft.class_1132 was not found zombieawareness.mixins_fabric.json:MixinIntegratedServer from mod zombieawareness
+[19:19:04] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/LargeMapScreen)
+[19:19:04] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.LargeMapScreen was not found create.mixins.json:compat.ftbchunks.LargeMapScreenAccessor from mod create
+[19:19:04] [main/WARN]: Error loading class: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel (java.lang.ClassNotFoundException: dev/ftb/mods/ftbchunks/client/gui/RegionMapPanel)
+[19:19:04] [main/WARN]: @Mixin target dev.ftb.mods.ftbchunks.client.gui.RegionMapPanel was not found create.mixins.json:compat.ftbchunks.RegionMapPanelAccessor from mod create
+[19:19:04] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[19:19:04] [main/WARN]: Error loading class: net/minecraft/class_4587$class_4665 (java.lang.ClassNotFoundException: net/minecraft/class_4587$class_4665)
+[19:19:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:19:08] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin from mod palladiumcore::handler$bgh000$palladiumcore$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19:19:12] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[19:19:12] [main/WARN]: Method overwrite conflict for getPools in porting_lib_tool_actions.mixins.json:BuilderAccessor from mod porting_lib_tool_actions, previously written by com.blackgear.platform.core.mixin.fabric.LootTableBuilderMixin. Skipping method.
+[19:19:13] [main/INFO]: Loaded config: golemBuildSpawning=true, golemPressesButtons=true, buttonPressChance=5%, golemTransportStackSize=16, weatheringTickFrom=504000, weatheringTickTo=552000
+[19:19:13] [main/INFO]: Initializing Copper-Age-Backport on Fabric
+[19:19:13] [main/INFO]: Registering sounds for Copper-Age-Backport
+[19:19:13] [main/INFO]: Registering memory module types for Copper-Age-Backport
+[19:19:13] [main/INFO]: Registering particles for Copper-Age-Backport
+[19:19:13] [main/INFO]: Registering blocks for Copper-Age-Backport
+[19:19:13] [main/INFO]: Registering block entities for Copper-Age-Backport
+[19:19:13] [main/INFO]: Registering entities for Copper-Age-Backport
+[19:19:13] [main/ERROR]: No data fixer registered for copper_golem
+[19:19:13] [main/INFO]: Registering items for Copper-Age-Backport
+[19:19:13] [main/INFO]: ModCompat: Mod 'fastchest' not loaded, skipping compatibility module
+[19:19:13] [main/INFO]: ModCompat: Mod 'sophisticatedstorage' not loaded, skipping compatibility module
+[19:19:13] [main/INFO]: ModCompat: Mod 'ironchest' not loaded, skipping compatibility module
+[19:19:13] [main/INFO]: ModCompat: Initializing 0 compatibility modules...
+[19:19:13] [main/INFO]: ModCompat: Initialization complete. 0 chest handlers, 0 container handlers registered.
+[19:19:13] [main/INFO]: Copper-Age-Backport initialized successfully!
+[19:19:13] [main/INFO]: Fired 1 registration callbacks
+[19:19:13] [main/INFO]: fabric loader environment detected
+[19:19:13] [main/INFO]: Create 6.0.8.1 initializing!
+[19:19:15] [main/INFO]: Channelling eldritch energies...
+[19:19:15] [main/INFO]: initializing FastMove :3
+[19:19:15] [main/ERROR]: No data fixer registered for water_purifier
+[19:19:15] [main/ERROR]: No data fixer registered for temperature_gauge
+[19:19:15] [main/ERROR]: No data fixer registered for thermoregulator
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:bamboo_hopper
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
+[19:19:15] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
+[19:19:15] [main/INFO]: Initializing JamLib on Fabric
+[19:19:15] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[19:19:15] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[19:19:16] [main/INFO]: [STDOUT]: Hello from Epic Knights Addon init!
+[19:19:16] [main/ERROR]: No data fixer registered for man_of_many_planes:scarlet_biplane
+[19:19:16] [main/ERROR]: No data fixer registered for man_of_many_planes:economy_plane
+[19:19:16] [main/INFO]: Definitely not up to no good
+[19:19:16] [main/ERROR]: No data fixer registered for creeper_minion
+[19:19:16] [main/ERROR]: No data fixer registered for mutant_creeper
+[19:19:16] [main/ERROR]: No data fixer registered for mutant_enderman
+[19:19:16] [main/ERROR]: No data fixer registered for mutant_skeleton
+[19:19:16] [main/ERROR]: No data fixer registered for mutant_snow_golem
+[19:19:16] [main/ERROR]: No data fixer registered for mutant_zombie
+[19:19:16] [main/ERROR]: No data fixer registered for spider_pig
+[19:19:16] [main/ERROR]: No data fixer registered for body_part
+[19:19:16] [main/ERROR]: No data fixer registered for creeper_minion_egg
+[19:19:16] [main/ERROR]: No data fixer registered for endersoul_clone
+[19:19:16] [main/ERROR]: No data fixer registered for endersoul_fragment
+[19:19:16] [main/ERROR]: No data fixer registered for throwable_block
+[19:19:16] [main/INFO]: Constructing common components for mutantmonsters:main
+[19:19:16] [main/INFO]: Loading common config for mutantmonsters
+[19:19:16] [Thread-2/INFO]: Reloading common config for mutantmonsters
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:blister_zombie
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:crawler
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:spitter
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:spitter_projectile
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:zombie_brute
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:split_head_zombie
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:mutant_brute
+[19:19:16] [main/ERROR]: No data fixer registered for mutantszombies:rotten_mutant
+[19:19:16] [main/INFO]: Registering Mod Items for mutantszombies
+[19:19:16] [main/INFO]: Registering Sounds for mutantszombies
+[19:19:16] [main/INFO]: Blodhgarm: Did you know it took four switcheroos to implement the Matrices in the correct folder
+[19:19:17] [main/INFO]: Constructing common components for puzzleslib:main
+[19:19:17] [main/INFO]: Steam 'n' Rails v1.6.14-beta initializing! Commit hash: a23701697f25a217ed967b564a216a6429e07009 on Create version: 6.0.8.1 on platform: Fabric
+[19:19:17] [main/INFO]: Registered bogey styles from railways
+[19:19:17] [main/INFO]: Registering data fixers
+[19:19:17] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
+[19:19:17] [main/INFO]: Registering tracks for Hex Casting
+[19:19:17] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
+[19:19:17] [main/INFO]: Registering tracks for Blue Skies
+[19:19:17] [main/INFO]: Registering tracks for Twilight Forest
+[19:19:17] [main/INFO]: Registering tracks for Biomes O' Plenty
+[19:19:17] [main/INFO]: Registering tracks for Nature's Spirit
+[19:19:17] [main/INFO]: Registering tracks for Dreams and Desires
+[19:19:17] [main/INFO]: Registering tracks for Quark
+[19:19:17] [main/INFO]: Registering tracks for TerraFirmaCraft
+[19:19:17] [main/INFO]: [Regions Unexplored] generating and loading config
+[19:19:18] [main/INFO]: Updated config file at /workspaces/Survival/servidor_minecraft/config/rightclickharvest.json5
+[19:19:18] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[19:19:18] [main/INFO]: Loading up some Serious Animations.
+[19:19:18] [main/INFO]: Initializing Silk due to init call
+[19:19:18] [main/ERROR]: No data fixer registered for battlestandard
+[19:19:18] [main/ERROR]: No data fixer registered for battlestandarddark
+[19:19:18] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[19:19:18] [main/INFO]: [STDOUT]: /workspaces/Survival/servidor_minecraft/config
+[19:19:18] [main/INFO]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[19:19:18] [main/INFO]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[19:19:19] [main/ERROR]: No data fixer registered for target_minecart
+[19:19:19] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19:19:19] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[19:19:19] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[19:19:19] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[19:19:19] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[19:19:19] [main/INFO]: Registered region vanillabackport:overworld to index 3 for type OVERWORLD
+[19:19:19] [main/ERROR]: No data fixer registered for 
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of milk:still_milk for Milk (Fluid Amount Required: 81000) with the ID 3
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 27000) with the ID 5
+[19:19:19] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[19:19:20] [main/INFO]: Initializing the Undead Nights Mod
+[19:19:20] [main/INFO]: Loading undeadnights horde mobs config
+[19:19:20] [main/INFO]: Default horde mob undeadnights:horde_zombie was read from config.
+[19:19:20] [main/INFO]: Horde mob undeadnights:elite_zombie with chance 3% was read from config.
+[19:19:20] [main/INFO]: Horde mob undeadnights:demolition_zombie with chance 6% was read from config.
+[19:19:20] [main/ERROR]: No data fixer registered for undeadnights:horde_zombie
+[19:19:20] [main/ERROR]: No data fixer registered for undeadnights:demolition_zombie
+[19:19:20] [main/ERROR]: No data fixer registered for undeadnights:elite_zombie
+[19:19:20] [main/ERROR]: No data fixer registered for undeadnights:tnt_projectile
+[19:19:20] [main/INFO]: Registering Mod Items for undeadnights
+[19:19:20] [main/INFO]: Registering Sounds for undeadnights
+[19:19:20] [main/INFO]: Registering Mod Potions for undeadnights
+[19:19:20] [main/INFO]: Registering Item Groups for undeadnights
+[19:19:20] [main/ERROR]: No data fixer registered for creaking
+[19:19:20] [main/ERROR]: No data fixer registered for happy_ghast
+[19:19:20] [main/ERROR]: No data fixer registered for pale_oak_boat
+[19:19:20] [main/ERROR]: No data fixer registered for pale_oak_chest_boat
+[19:19:20] [main/ERROR]: No data fixer registered for armadillo
+[19:19:20] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[19:19:20] [main/ERROR]: No data fixer registered for zombieawareness:scent
+[19:19:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:19:20] [main/INFO]: Created 462 recipes which will be injected into the game
+[19:19:20] [main/INFO]: Created 2 tags which will be injected into the game
+[19:19:38] [main/INFO]: Start scanning for gun packs in /workspaces/Survival/servidor_minecraft/tacz
+[19:19:38] [main/INFO]: - The Division pack_ver.0.3.3.zip, Main namespace: gz
+[19:19:38] [main/INFO]: - TaczBulletImpact.zip, Main namespace: tacztweaks
+[19:19:38] [main/INFO]: - Suffuse-GunSmoke-Pack1.0.7--hotfix.zip, Main namespace: suffuse
+[19:19:38] [main/ERROR]: Failed to load extension from ZIP TTI_Gunpack-v1.0.0.zip. Error: No gunpack.meta.json found
+[19:19:38] [main/INFO]: - tacz_default_gun, Main namespace: tacz
+[19:19:38] [main/ERROR]: Failed to load extension from ZIP qrosshair0.2.1c.zip. Error: No gunpack.meta.json found
+[19:19:38] [main/INFO]: - antiques_gunpack_v0.2.2.zip, Main namespace: antiques
+[19:19:38] [main/INFO]: - PersonalArmsR8.zip, Main namespace: hk
+[19:19:38] [main/INFO]: - 82laffey1.1.2(1).zip, Main namespace: mk16
+[19:19:38] [main/ERROR]: Failed to load extension from ZIP 【TACZ】Anomaly Pack【EX】 v1.4.1.zip. Error: No gunpack.meta.json found
+[19:19:38] [main/INFO]: Found 7 possible gunpack(s) and added them to resource set.
+[19:19:40] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:19:40] [Worker-Main-1/ERROR]: Couldn't load tag magistuarmory:darkening_templates as it is missing following references: magistuarmoryaddon:darkening_template (from fabric)
+[19:19:40] [Worker-Main-1/ERROR]: Couldn't load tag magistuarmory:gilding_templates as it is missing following references: magistuarmoryaddon:gilding_template (from fabric)
+[19:19:40] [Worker-Main-1/ERROR]: Couldn't load tag c:silver_nuggets as it is missing following references: magistuarmoryaddon:silver_nugget (from fabric)
+[19:19:41] [Worker-Main-2/WARN]: Invalid path in datapack: mk16:recipes/attachments/553+g43.json, ignoring
+[19:19:41] [Worker-Main-2/WARN]: Invalid path in datapack: mk16:recipes/attachments/553+g43f.json, ignoring
+[19:19:43] [main/ERROR]: Parsing error loading recipe magistuarmoryaddon:darkblued_sallet_from_dark_gothic_helmet_darkening
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[19:19:43] [main/ERROR]: Parsing error loading recipe magistuarmoryaddon:darkblued_armet_from_dark_knight_helmet_darkening
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[19:19:43] [main/INFO]: Loaded 25 recipes
+[19:19:43] [main/INFO]: Loaded 4193 advancements
+[19:19:44] [main/ERROR]: Failed to load data file suffuse:knife
+com.google.gson.JsonParseException: there is no corresponding data file
+	at com.tacz.guns.resource.serialize.CommonGunIndexSerializer.deserialize(CommonGunIndexSerializer.java:19) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at com.tacz.guns.resource.serialize.CommonGunIndexSerializer.deserialize(CommonGunIndexSerializer.java:12) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at com.tacz.guns.resource.manager.JsonDataManager.parseJson(JsonDataManager.java:75) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at com.tacz.guns.resource.manager.JsonDataManager.apply(JsonDataManager.java:64) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at com.tacz.guns.resource.manager.CommonDataManager.apply(CommonDataManager.java:42) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at com.tacz.guns.resource.manager.CommonDataManager.method_18788(CommonDataManager.java:22) ~[TACZ-Refabricated-1.20.1-0.2.0-forge1.1.7.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[19:19:44] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 56 translation keys
+[19:19:44] [main/INFO]: Reloading grave shape (server)
+[19:19:44] [main/INFO]: Grave model and shape reload successful (server)
+[19:19:44] [main/INFO]: Reloading YIGD graveyard data (server)
+[19:19:44] [main/INFO]: Graveyard data successfully reloaded (server)
+[19:19:44] [main/INFO]: Reloading YIGD grave area overrides (server)
+[19:19:44] [main/INFO]: Grave area overrides successfully reloaded (server)
+[19:19:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19:19:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld11
+[19:19:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19:19:46] [main/INFO]: Applied 2041 biome modifications to 137 of 137 new biomes in 64.94 ms
+[19:19:46] [Server thread/INFO]: Reached SERVER_STARTING state
+[19:19:46] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[19:19:46] [Server thread/INFO]: Loading server config for mutantmonsters
+[19:19:46] [Thread-2/INFO]: Reloading server config for mutantmonsters
+[19:19:46] [Thread-2/INFO]: Reloading server config for mutantmonsters
+[19:19:46] [Server thread/ERROR]: Registry 'minecraft:wolf_sound_variant' was empty after loading
+[19:19:46] [Server thread/ERROR]: Registry 'minecraft:cow_variant' was empty after loading
+[19:19:46] [Server thread/ERROR]: Registry 'minecraft:chicken_variant' was empty after loading
+[19:19:46] [Server thread/ERROR]: Registry 'minecraft:pig_variant' was empty after loading
+[19:19:46] [Server thread/ERROR]: Registry 'minecraft:wolf_variant' was empty after loading
+[19:19:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:19:46] [Server thread/INFO]: Loading properties
+[19:19:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:19:46] [Server thread/INFO]: Generating keypair
+[19:19:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:19:47] [Server thread/INFO]: Using epoll channel type
+[19:19:47] [Server thread/INFO]: Preparing level "world"
+[19:20:03] [User Authenticator #1/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+[19:20:05] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[19:20:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:20:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:20:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:20:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:20:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:20:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:20:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:20:11] [Worker-Main-2/INFO]: Preparing spawn area: 31%
+[19:20:11] [Server thread/INFO]: Time elapsed: 6437 ms
+[19:20:11] [Server thread/INFO]: Done (24.511s)! For help, type "help"
+[19:20:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e106f07[id=6fd8954e-bb1f-4654-b42e-ce4c92b762eb,name=Zatanna917,properties={textures=[com.mojang.authlib.properties.Property@2aec2887]},legacy=false] (/100.101.238.118:58038) lost connection: Disconnected
+[19:20:14] [User Authenticator #2/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+[19:20:15] [Server thread/INFO]: Zatanna917[/100.101.238.118:58045] logged in with entity id 148 at (-123.5, 75.5625, 720.5)
+[19:20:15] [Server thread/INFO]: Sending server config values to client
+[19:20:15] [Server thread/INFO]: Loading config from file...
+[19:20:15] [Server thread/INFO]: Zatanna917 joined the game
+[19:20:15] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[19:20:17] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Zatanna917. Claiming: GRAVE / Robbing: INVENTORY
+[19:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[19:20:18] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:20:18] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:25:08] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[19:31:14] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[19:31:25] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[19:31:53] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[19:34:11] [Server thread/INFO]: [Zatanna917: The difficulty has been set to Hard]
+[19:38:29] [User Authenticator #3/INFO]: UUID of player CGreens is 743142f2-4877-476a-a634-d5fecb04ce0d
+[19:38:30] [Server thread/INFO]: CGreens[/100.94.215.30:50210] logged in with entity id 3757 at (-164.56275908232107, 74.0, 712.2796989164256)
+[19:38:30] [Server thread/INFO]: Sending server config values to client
+[19:38:30] [Server thread/INFO]: Loading config from file...
+[19:38:30] [Server thread/INFO]: CGreens joined the game
+[19:38:30] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[19:38:36] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player CGreens. Claiming: GRAVE / Robbing: INVENTORY
+[19:38:46] [Server thread/INFO]: CGreens was slain by Zombie
+[19:38:46] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-19.38.46.dat
+[19:38:58] [Server thread/INFO]: <Zatanna917> WA
+[19:39:52] [Server thread/INFO]: <Zatanna917> :,c
+[19:39:56] [Server thread/INFO]: [Not Secure] <CGreens> :CCCC
+[19:40:04] [Server thread/INFO]: <Zatanna917> mira :3
+[19:40:04] [Server thread/INFO]: [Not Secure] <CGreens> TISTE
+[19:40:11] [Server thread/INFO]: <Zatanna917> me hice una pistola y la escopeta recortada
+[19:40:26] [Server thread/INFO]: [Not Secure] <CGreens> ta weno
+[19:40:28] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[19:40:31] [Server thread/INFO]: <Zatanna917> WA
+[19:40:35] [Server thread/INFO]: <Zatanna917> JUGAR ASI PA Q
+[19:40:38] [Server thread/INFO]: <Zatanna917> WA
+[19:40:42] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -165, 74, 712, minecraft:overworld
+[19:40:58] [Server thread/INFO]: [Not Secure] <CGreens> me pongo feliz si vas a jugar hasta tarde
+[19:40:59] [Server thread/INFO]: [Not Secure] <CGreens> unu
+[19:41:07] [Server thread/INFO]: <Zatanna917> hasta las 9 maximo unu
+[19:41:17] [Server thread/INFO]: [Not Secure] <CGreens> nu espere todo un año para esto
+[19:41:18] [Server thread/INFO]: [Not Secure] <CGreens> >:C
+[19:41:28] [Server thread/INFO]: <Zatanna917> es lo que hay >:c
+[19:41:29] [Server thread/INFO]: <Zatanna917> asi es la vida
+[19:41:31] [Server thread/INFO]: <Zatanna917> >:Ccc
+[19:41:38] [Server thread/INFO]: [Not Secure] <CGreens> eso pq tu lo quieres hacer asi
+[19:41:40] [Server thread/INFO]: [Not Secure] <CGreens> okey
+[19:41:41] [Server thread/INFO]: [Not Secure] <CGreens> unu
+[19:41:56] [Server thread/INFO]: <Zatanna917> :,c
+[19:42:44] [Server thread/INFO]: [Not Secure] <CGreens> al menos deja enero para jugar full minecraft
+[19:42:45] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[19:42:51] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to 486.000000, 67.000000, 208.000000]
+[19:42:58] [Server thread/INFO]: <Zatanna917> :o
+[19:43:14] [Server thread/INFO]: [Not Secure] <CGreens> q
+[19:43:18] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[19:43:21] [Server thread/INFO]: <Zatanna917> quiero dedicarle tiempo a mi sv tambien unu
+[19:43:30] [Server thread/INFO]: [Not Secure] <CGreens> pero despues pones admins y ya
+[19:43:31] [Server thread/INFO]: <Zatanna917> encontre un bioma lindo
+[19:43:31] [Server thread/INFO]: <Zatanna917> :3
+[19:43:32] [Server thread/INFO]: [Not Secure] <CGreens> >:C
+[19:43:37] [Server thread/INFO]: <Zatanna917> pero por lo visto es caluroso
+[19:43:48] [Server thread/INFO]: [Not Secure] <CGreens> deja que aqui ta bien
+[19:44:02] [Server thread/INFO]: [Zatanna917: Applied enchantment Efficiency V to Zatanna917's item]
+[19:44:42] [Server thread/INFO]: [Not Secure] <CGreens> wa pero y si no funciona el sv
+[19:44:44] [Server thread/INFO]: [Not Secure] <CGreens> q haras
+[19:44:58] [Server thread/INFO]: <Zatanna917> almenos lo intentare unu
+[19:45:04] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[19:45:05] [Server thread/INFO]: <Zatanna917> en ves de decir deberias apoyarme
+[19:45:06] [Server thread/INFO]: <Zatanna917> :,c
+[19:45:18] [Server thread/INFO]: [Not Secure] <CGreens> y lo hago wa
+[19:45:29] [Server thread/INFO]: [Not Secure] <CGreens> pero tambien quiero divertirme
+[19:45:35] [Server thread/INFO]: [Not Secure] <CGreens> no sufri todo el año por esto
+[19:45:37] [Server thread/INFO]: [Not Secure] <CGreens> >:,c
+[19:47:04] [Server thread/INFO]: [Not Secure] <CGreens> pero cuando termines el sv no te dediques tanto
+[19:47:12] [Server thread/INFO]: [Not Secure] <CGreens> pq ya pa eso tienes mods y admins
+[19:47:42] [Server thread/INFO]: [Not Secure] <CGreens> es mas como que no te apoyo si YO FUI QUIEN TE INSENTIVO
+[19:47:44] [Server thread/INFO]: [Not Secure] <CGreens> >:,c
+[19:48:15] [Server thread/INFO]: <Zatanna917> no fuiste el unico
+[19:48:16] [Server thread/INFO]: <Zatanna917> unu
+[19:48:23] [Server thread/INFO]: [Not Secure] <CGreens> pero te apoye bastante
+[19:48:35] [Server thread/INFO]: [Not Secure] <CGreens> y te colaboro
+[19:48:50] [Server thread/INFO]: [Not Secure] <CGreens> peor me preocupa que despues me digas "no quiero darle tiempo al server"
+[19:48:56] [Server thread/INFO]: [Not Secure] <CGreens> Y DESPUES NI ME HABLES
+[19:49:02] [Server thread/INFO]: [Not Secure] <CGreens> PQ YA ME PASO ESA SITUACION
+[19:49:05] [Server thread/INFO]: [Not Secure] <CGreens> 3 VECES
+[19:49:12] [Server thread/INFO]: [Not Secure] <CGreens> y no quiero que sea la 4ta
+[19:49:13] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[19:49:33] [Server thread/INFO]: <Zatanna917> no quiero seguir hablando de este tema unu
+[19:49:41] [Server thread/INFO]: [Not Secure] <CGreens> pero
+[19:49:42] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[19:49:46] [Server thread/INFO]: [Not Secure] <CGreens> te quiero decir la verdad
+[19:49:57] [Server thread/INFO]: [Not Secure] <CGreens> me siento incomodo cuando escucho ese tipo de palabras
+[19:49:59] [Server thread/INFO]: <Zatanna917> si pero ya veo que luego terminamo peleando
+[19:50:02] [Server thread/INFO]: [Not Secure] <CGreens> pq me pone a pensar
+[19:50:33] [Server thread/INFO]: [Not Secure] <CGreens> weno solo espero que al menos no te separes o no me des bola
+[19:50:34] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[19:50:48] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[19:50:51] [Server thread/INFO]: <Zatanna917> WA
+[19:50:53] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[19:50:54] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:50:55] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:50:56] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[19:50:56] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[19:51:04] [Server thread/INFO]: <Zatanna917> duerme unu
+[19:51:11] [Server thread/INFO]: [Not Secure] <CGreens> unu
+[19:51:15] [Server thread/INFO]: <Zatanna917> duerme unu
+[19:51:22] [Server thread/INFO]: <Zatanna917> duerme WAAAAAAAAAAAAAAAAAAAAAAAAA
+[19:51:57] [Server thread/INFO]: <Zatanna917> unu
+[19:56:10] [Server thread/INFO]: Named entity class_1613['Lifesteal Duplicator Resistant Skeleton'/13325, l='ServerLevel[world]', x=-106.86, y=76.00, z=711.81] died: death.attack.turret_gauss_bullet
+[19:57:06] [Server thread/INFO]: Named entity class_1548['Deflector Weakness Creeper'/13497, l='ServerLevel[world]', x=-147.47, y=75.00, z=706.74] died: death.attack.turret_gauss_bullet
+[19:57:34] [Server thread/INFO]: [Zatanna917: Gave 1 [Zombie Brute Spawn Egg] to Zatanna917]
+[19:58:10] [Server thread/INFO]: [Zatanna917: Gave 1 [Mutant Zombie Spawn Egg] to Zatanna917]
+[19:58:16] [Server thread/INFO]: Zatanna917 was doomed to fall by Mutant Zombie
+[19:58:25] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -157, 75, 740, minecraft:overworld
+[19:59:17] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:59:21] [Server thread/INFO]: death.attack.turret_gauss_bullet
+[19:59:21] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-19.59.21.dat
+[19:59:33] [Server thread/INFO]: [Not Secure] <CGreens> ME MATO TU TORRERA
+[19:59:33] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[19:59:35] [Server thread/INFO]: [Not Secure] <CGreens> >:CCCCCCCCCCC
+[19:59:36] [Server thread/INFO]: <Zatanna917> ?
+[19:59:38] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -122, 76, 719, minecraft:overworld
+[19:59:40] [Server thread/INFO]: <Zatanna917> q
+[19:59:44] [Server thread/INFO]: <Zatanna917> si no ataca jugadores
+[20:00:00] [Server thread/INFO]: [Not Secure] <CGreens> dice que me mato
+[20:00:01] [Server thread/INFO]: [Not Secure] <CGreens> >:c
+[20:00:41] [Server thread/INFO]: [Not Secure] <CGreens> muy triste estoy
+[20:01:19] [Server thread/INFO]: <Zatanna917> como se repara esto?
+[20:01:29] [Server thread/INFO]: [Not Secure] <CGreens> q
+[20:01:31] [Server thread/INFO]: [Not Secure] <CGreens> >:v
+[20:01:34] [Server thread/INFO]: <Zatanna917> la torreta
+[20:02:14] [Server thread/INFO]: [Not Secure] <CGreens> nu me deja hacerle nada
+[20:02:55] [Server thread/INFO]: <Zatanna917> :c
+[20:05:24] [Server thread/INFO]: <Zatanna917> ahita :3
+[20:05:30] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[20:06:14] [Server thread/INFO]: <Zatanna917> se puede poner cosas a la pistola?
+[20:06:18] [Server thread/INFO]: [Not Secure] <CGreens> si
+[20:06:25] [Server thread/INFO]: [Not Secure] <CGreens> mira la mesa que esta separada
+[20:06:25] [Server thread/INFO]: <Zatanna917> como?
+[20:06:37] [Server thread/INFO]: [Not Secure] <CGreens> y con shift miras para q arma esta hecha
+[20:06:48] [Server thread/INFO]: [Not Secure] <CGreens> pon el cursor encima del accesorio
+[20:06:51] [Server thread/INFO]: <Zatanna917> ??
+[20:06:54] [Server thread/INFO]: [Not Secure] <CGreens> y le das shift
+[20:07:05] [Server thread/INFO]: [Not Secure] <CGreens> abre la mesa
+[20:07:13] [Server thread/INFO]: <Zatanna917> creo que si
+[20:08:37] [Server thread/INFO]: <Zatanna917> y como le pongo?
+[20:08:44] [Server thread/INFO]: [Not Secure] <CGreens> a la z
+[20:09:51] [Server thread/INFO]: <Zatanna917> No deja
+[20:09:52] [Server thread/INFO]: <Zatanna917> :c
+[20:09:59] [Server thread/INFO]: [Not Secure] <CGreens> como q no
+[20:10:00] [Server thread/INFO]: [Not Secure] <CGreens> a la z
+[20:10:07] [Server thread/INFO]: <Zatanna917> me abre un menu con estadisticas del arma y no sale
+[20:10:08] [Server thread/INFO]: <Zatanna917> wa
+[20:10:09] [Server thread/INFO]: [Not Secure] <CGreens> y te fijas q accesorios le permites poner
+[20:10:15] [Server thread/INFO]: [Not Secure] <CGreens> sino
+[20:10:19] [Server thread/INFO]: [Not Secure] <CGreens> mira los controles
+[20:10:28] [Server thread/INFO]: [Not Secure] <CGreens> y ponle el menu de accesorios a otra tecla
+[20:10:34] [Server thread/INFO]: [Not Secure] <CGreens> ah
+[20:10:36] [Server thread/INFO]: <Zatanna917> si abre con z
+[20:10:39] [Server thread/INFO]: <Zatanna917> si tengo equipada el arma
+[20:10:41] [Server thread/INFO]: [Not Secure] <CGreens> los cuadrados esos
+[20:10:44] [Server thread/INFO]: [Not Secure] <CGreens> son los accesorios
+[20:11:24] [Server thread/INFO]: <Zatanna917> no me da para seleccionar la pistola
+[20:11:25] [Server thread/INFO]: <Zatanna917> Wa
+[20:11:30] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[20:11:42] [Server thread/INFO]: [Not Secure] <CGreens> no acepta miras
+[20:11:46] [Server thread/INFO]: <Zatanna917> WA
+[20:11:55] [Server thread/INFO]: [Not Secure] <CGreens> si tiene como una linea
+[20:12:00] [Server thread/INFO]: [Not Secure] <CGreens> es q no tiene hueco
+[20:13:19] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[20:13:20] [Server thread/INFO]: <Zatanna917> :c
+[20:13:24] [Server thread/INFO]: [Not Secure] <CGreens> toma
+[20:13:26] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:13:33] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[20:13:44] [Server thread/INFO]: <Zatanna917> :3
+[20:13:46] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:13:46] [Server thread/INFO]: <Zatanna917> :D
+[20:13:49] [Server thread/INFO]: <Zatanna917> pa ti
+[20:13:51] [Server thread/INFO]: <Zatanna917> :DD
+[20:13:53] [Server thread/INFO]: [Not Secure] <CGreens> usala
+[20:13:54] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:13:58] [Server thread/INFO]: <Zatanna917> nu
+[20:14:01] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:14:05] [Server thread/INFO]: <Zatanna917> esa te la di yo
+[20:14:06] [Server thread/INFO]: <Zatanna917> :,c
+[20:14:07] [Server thread/INFO]: <Zatanna917> wa
+[20:14:09] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[20:14:10] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:14:13] [Server thread/INFO]: [Not Secure] <CGreens> wenu
+[20:14:17] [Server thread/INFO]: <Zatanna917> no te gusta mi regalo seguramente
+[20:14:18] [Server thread/INFO]: <Zatanna917> :;c
+[20:14:21] [Server thread/INFO]: [Not Secure] <CGreens> waaa
+[20:14:23] [Server thread/INFO]: [Not Secure] <CGreens> si es la que mas uso
+[20:14:24] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:14:26] [Server thread/INFO]: <Zatanna917> :3
+[20:14:28] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[20:14:30] [Server thread/INFO]: [Not Secure] <CGreens> pero te la queria dar toda hecha
+[20:14:31] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:15:38] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[20:15:44] [Server thread/INFO]: <Zatanna917> mira :3
+[20:15:50] [Server thread/WARN]: CGreens moved wrongly!
+[20:15:54] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[20:15:57] [Server thread/INFO]: [Not Secure] <CGreens> ya vienen
+[20:15:58] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[20:16:55] [Server thread/INFO]: <Zatanna917> WA
+[20:16:58] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:17:03] [Server thread/INFO]: <Zatanna917> me olvide de darte algo :3
+[20:17:09] [Server thread/INFO]: [Not Secure] <CGreens> q
+[20:17:09] [Server thread/INFO]: <Zatanna917> toma
+[20:17:10] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[20:17:19] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[20:17:52] [Server thread/INFO]: [Not Secure] <CGreens> gracias
+[20:17:53] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[20:17:57] [Server thread/INFO]: <Zatanna917> :3
+[20:18:18] [Server thread/INFO]: [Not Secure] <CGreens> ah si corres, saltas y aprietas la c dos veces haces esto
+[20:18:19] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:18:35] [Server thread/INFO]: <Zatanna917> :3
+[20:18:38] [Server thread/INFO]: <Zatanna917> y el dron? :,c
+[20:18:42] [Server thread/INFO]: [Not Secure] <CGreens> lo tengo
+[20:18:45] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:18:50] [Server thread/INFO]: <Zatanna917> :3
+[20:18:53] [Server thread/INFO]: [Not Secure] <CGreens> pero no lo voy a sacar a no ser q no necesite
+[20:18:56] [Server thread/INFO]: [Not Secure] <CGreens> para no gastar balas
+[20:18:57] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[20:20:50] [Server thread/INFO]: <Zatanna917> y la miras lasers?
+[20:21:00] [Server thread/INFO]: [Not Secure] <CGreens> eso va en los mangos
+[20:21:07] [Server thread/INFO]: [Not Secure] <CGreens> va algunos
+[20:21:12] [Server thread/INFO]: [Not Secure] <CGreens> otros tienen por separado
+[20:21:15] [Server thread/INFO]: [Not Secure] <CGreens> pero depende del arma
+[20:21:26] [Server thread/INFO]: [Not Secure] <CGreens> si mantienes el cursor en el accesorio y le das shift
+[20:21:32] [Server thread/INFO]: [Not Secure] <CGreens> miras q armas son compatibles
+[20:21:33] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:26:39] [Server thread/INFO]: [Not Secure] <CGreens> toma
+[20:26:40] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[20:28:15] [Server thread/INFO]: [Not Secure] <CGreens> wapa?
+[20:28:16] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:28:43] [Server thread/INFO]: [Not Secure] <CGreens> :C
+[20:29:46] [Server thread/INFO]: <Zatanna917> volvi
+[20:29:47] [Server thread/INFO]: <Zatanna917> :3
+[20:29:53] [Server thread/INFO]: <Zatanna917> mira >:3
+[20:30:03] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[20:30:15] [Server thread/INFO]: <Zatanna917> D:
+[20:30:16] [Server thread/INFO]: [Not Secure] <CGreens> tambien te di un arma
+[20:30:17] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[20:30:20] [Server thread/INFO]: <Zatanna917> y esta?
+[20:30:37] [Server thread/INFO]: <Zatanna917> la guardare por si pierdo mi mp5
+[20:30:42] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:33:26] [Server thread/INFO]: Zatanna917 was slain by Mutant Brute
+[20:33:29] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[20:33:34] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -157, 75, 721, minecraft:overworld
+[20:34:07] [Server thread/INFO]: <Zatanna917> existen cajas mas grandes de municion?
+[20:34:13] [Server thread/INFO]: [Not Secure] <CGreens> si
+[20:34:17] [Server thread/INFO]: [Not Secure] <CGreens> hasta de diamante
+[20:34:36] [Server thread/INFO]: [Not Secure] <CGreens> una aldea
+[20:34:36] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[20:34:55] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[20:37:09] [Server thread/INFO]: Villager class_1646['Leatherworker'/22392, l='ServerLevel[world]', x=-338.20, y=73.50, z=735.70] died, message: 'Leatherworker was slain by Zombie'
+[20:37:20] [Server thread/INFO]: CGreens was slain by Horde Zombie
+[20:37:20] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-20.37.20.dat
+[20:37:28] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:37:28] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:37:29] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[20:37:43] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -384, 73, 716, minecraft:overworld
+[20:38:41] [Server thread/INFO]: <Zatanna917> suben escaleras
+[20:38:57] [Server thread/INFO]: CGreens was slain by Horde Zombie
+[20:38:57] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-20.38.57.dat
+[20:39:03] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:39:03] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:39:05] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[20:39:16] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[20:39:28] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -397, 74, 723, minecraft:overworld
+[20:39:28] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:39:35] [Server thread/INFO]: CGreens was blown up by Creeper
+[20:39:35] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-20.39.35.dat
+[20:39:39] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:39:44] [Server thread/INFO]: [Not Secure] <CGreens> da q escopeta de miedra
+[20:39:52] [Server thread/INFO]: [Not Secure] <CGreens> se buguea y no te deja disparar
+[20:39:58] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[20:40:09] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -409, 74, 723, minecraft:overworld
+[20:40:51] [Server thread/INFO]: CGreens was shot by Skeleton
+[20:40:51] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-20.40.51.dat
+[20:40:56] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:40:56] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:41:05] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[20:41:11] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -435, 76, 702, minecraft:overworld
+[20:41:32] [Server thread/INFO]: <Zatanna917> fua
+[20:41:33] [Server thread/INFO]: [Not Secure] <CGreens> dios
+[20:41:37] [Server thread/INFO]: <Zatanna917> no sabia que subian escaleras
+[20:41:50] [Server thread/INFO]: [Not Secure] <CGreens> tambien rompen puertas
+[20:41:55] [Server thread/INFO]: [Not Secure] <CGreens> y te escuchan
+[20:41:55] [Server thread/INFO]: <Zatanna917> si eso vi
+[20:42:01] [Server thread/INFO]: [Not Secure] <CGreens> te huelen la sangre
+[20:42:02] [Server thread/INFO]: [Not Secure] <CGreens> todo
+[20:42:21] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:42:28] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:42:34] [Server thread/INFO]: <Zatanna917> deberiamos llevar los drones cuando salgamos
+[20:42:38] [Server thread/INFO]: [Not Secure] <CGreens> se
+[20:42:42] [Server thread/INFO]: [Not Secure] <CGreens> lo tenia en la mochila
+[20:42:58] [Server thread/INFO]: [Not Secure] <CGreens> hay un pilar
+[20:43:00] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:43:04] [Server thread/INFO]: [Not Secure] <CGreens> ya tenemos uno en casa
+[20:43:14] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[20:43:14] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:43:14] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:43:21] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:43:21] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[20:43:34] [Server thread/INFO]: <Zatanna917> el golem esta en las ultimas
+[20:43:36] [Server thread/INFO]: [Not Secure] <CGreens> no dura nada la muni
+[20:43:46] [Server thread/INFO]: [Not Secure] <CGreens> si aca los golems van a durar poco
+[20:43:47] [Server thread/INFO]: [Not Secure] <CGreens> y ojo
+[20:43:55] [Server thread/INFO]: [Not Secure] <CGreens> q vi q hay hordas mucho mas grandes
+[20:43:59] [Server thread/INFO]: [Not Secure] <CGreens> pq cada dia aumentan
+[20:44:07] [Server thread/INFO]: [Not Secure] <CGreens> + el mod de que los bichos son mas fuertes
+[20:44:09] [Server thread/INFO]: <Zatanna917> las torretas seran de mas ayuda entonces
+[20:44:13] [Server thread/INFO]: [Not Secure] <CGreens> sep
+[20:44:16] [Server thread/INFO]: [Not Secure] <CGreens> y encima
+[20:44:19] [Server thread/INFO]: [Not Secure] <CGreens> esta en hard
+[20:44:20] [Server thread/INFO]: [Not Secure] <CGreens> qwq
+[20:44:36] [Server thread/INFO]: <Zatanna917> si vamos a hacer sala de aldeanos
+[20:44:40] [Server thread/INFO]: <Zatanna917> hay que reguardarlos bien
+[20:44:44] [Server thread/INFO]: [Not Secure] <CGreens> sep
+[20:44:46] [Server thread/INFO]: [Not Secure] <CGreens> bien abajo
+[20:44:50] [Server thread/INFO]: [Not Secure] <CGreens> y super iluminado
+[20:44:57] [Server thread/INFO]: [Not Secure] <CGreens> busca grava
+[20:45:01] [Server thread/INFO]: [Not Secure] <CGreens> asi hago mechero
+[20:45:02] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:45:25] [Server thread/INFO]: <Zatanna917> ire a ver si hago mas municion de las 600 balas de la mp5
+[20:45:30] [Server thread/INFO]: <Zatanna917> me qudan 55
+[20:45:39] [Server thread/INFO]: [Not Secure] <CGreens> y eso q te di
+[20:45:41] [Server thread/INFO]: [Not Secure] <CGreens> pq es 9mm
+[20:45:53] [Server thread/INFO]: <Zatanna917> ah
+[20:45:59] [Server thread/INFO]: <Zatanna917> mi clock usa 99m
+[20:46:01] [Server thread/INFO]: <Zatanna917> 9mm
+[20:46:03] [Server thread/INFO]: <Zatanna917> tambien
+[20:46:05] [Server thread/INFO]: <Zatanna917> con razon
+[20:46:08] [Server thread/INFO]: <Zatanna917> chupa mas balas
+[20:46:13] [Server thread/INFO]: [Not Secure] <CGreens> trata de tener armas q usan otro tipo de balas
+[20:46:14] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[20:46:18] [Server thread/INFO]: [Not Secure] <CGreens> pq asi te rinde mas
+[20:46:40] [Server thread/INFO]: [Not Secure] <CGreens> oye
+[20:46:58] [Server thread/INFO]: <Zatanna917> no hay mucho que le puedo poner a mi 911
+[20:46:59] [Server thread/INFO]: <Zatanna917> q
+[20:47:13] [Server thread/INFO]: [Not Secure] <CGreens> cuando termines el sv puedo quedar como admin?
+[20:47:15] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:47:23] [Server thread/INFO]: <Zatanna917> ya vemo
+[20:47:24] [Server thread/INFO]: <Zatanna917> :p
+[20:47:30] [Server thread/INFO]: [Not Secure] <CGreens> di que si anda :c
+[20:47:34] [Server thread/INFO]: <Zatanna917> ya vemo
+[20:47:42] [Server thread/INFO]: [Not Secure] <CGreens> eso no es una respuesta
+[20:47:43] [Server thread/INFO]: [Not Secure] <CGreens> >:c
+[20:47:46] [Server thread/INFO]: <Zatanna917> pq el que mas me estaba ayudando en practicamente todo es hyuze
+[20:47:47] [Server thread/INFO]: <Zatanna917> xd
+[20:47:57] [Server thread/INFO]: [Not Secure] <CGreens> pero podemos ser los dos
+[20:48:09] [Server thread/INFO]: <Zatanna917> pero si ya no queda casi nada :p
+[20:48:13] [Server thread/INFO]: <Zatanna917> lo que si necesitare si o si
+[20:48:15] [Server thread/INFO]: <Zatanna917> son mods
+[20:48:15] [Server thread/INFO]: [Not Secure] <CGreens> daa anda
+[20:48:17] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:48:38] [Server thread/INFO]: <Zatanna917> :,3
+[20:48:46] [Server thread/INFO]: [Not Secure] <CGreens> al menos hazme feliz asi
+[20:48:47] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:48:52] [Server thread/INFO]: <Zatanna917> dandote mod?
+[20:48:53] [Server thread/INFO]: <Zatanna917> :3
+[20:48:57] [Server thread/INFO]: [Not Secure] <CGreens> admin
+[20:48:59] [Server thread/INFO]: [Not Secure] <CGreens> waa
+[20:49:00] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:49:29] [Server thread/INFO]: [Not Secure] <CGreens> si no vamos a jugar mc pq vas a hacer el sv minimo dejame admin
+[20:49:31] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:50:01] [Server thread/INFO]: <Zatanna917> :,3
+[20:50:09] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:50:11] [Server thread/INFO]: [Not Secure] <CGreens> porfiiii
+[20:50:11] [Server thread/INFO]: <Zatanna917> te doy mod mas vip perma uwu
+[20:50:17] [Server thread/INFO]: [Not Secure] <CGreens> nuuuu
+[20:50:19] [Server thread/INFO]: [Not Secure] <CGreens> :,cccccc
+[20:50:24] [Server thread/INFO]: <Zatanna917> shi
+[20:50:25] [Server thread/INFO]: <Zatanna917> :c
+[20:50:35] [Server thread/INFO]: [Not Secure] <CGreens> kiero admiiin waaaa
+[20:50:38] [Server thread/INFO]: [Not Secure] <CGreens> que nu hago nada malo
+[20:50:39] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:50:56] [Server thread/INFO]: <Zatanna917> no es eso
+[20:51:28] [Server thread/INFO]: [Not Secure] <CGreens> ke es
+[20:51:29] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:51:39] [Server thread/INFO]: <Zatanna917> es que no es justo que hyuze que me ayudo hasta a desarrollar de 0 los plugins, configurar los plugins hasta tarde desde comienzo de noviembre y muchas cosas mas venga y le de admin a otra persona qwp
+[20:51:59] [Server thread/INFO]: [Not Secure] <CGreens> "otra persona"
+[20:52:01] [Server thread/INFO]: [Not Secure] <CGreens> ok
+[20:52:08] [Server thread/INFO]: <Zatanna917> no te lo tomes asi unu
+[20:52:18] [Server thread/INFO]: [Not Secure] <CGreens> pues lamentablemente lo veo asi
+[20:52:19] [Server thread/INFO]: [Not Secure] <CGreens> unu
+[20:52:24] [Server thread/INFO]: [Not Secure] <CGreens> "otra persona"
+[20:52:25] [Server thread/INFO]: <Zatanna917> unu
+[20:52:29] [Server thread/INFO]: <Zatanna917> pq eres asi
+[20:52:29] [Server thread/INFO]: <Zatanna917> :c
+[20:52:36] [Server thread/INFO]: death.attack.turret_gauss_bullet
+[20:52:36] [Server thread/INFO]: Created new backpack backup file for CGreens with unique ID travelersbackpack.standard_12.12.2025-20.52.36.dat
+[20:52:45] [Server thread/INFO]: <Zatanna917> wtf
+[20:52:47] [Server thread/INFO]: [Not Secure] <CGreens> ME MATO TU TORRETAT
+[20:52:47] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[20:52:50] [Server thread/INFO]: [Not Secure] <CGreens> ENCIMA ME ODIAS
+[20:52:52] [Server thread/INFO]: [Not Secure] <CGreens> WAAAAAAAAAAAAAAAAAAA
+[20:52:59] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -147, 76, 718, minecraft:overworld
+[20:52:59] [Server thread/INFO]: <Zatanna917> le pegaste o q
+[20:53:03] [Server thread/INFO]: [Not Secure] <CGreens> NO
+[20:53:04] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[20:53:12] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[20:53:21] [Server thread/INFO]: [Not Secure] <CGreens> total
+[20:53:24] [Server thread/INFO]: [Not Secure] <CGreens> ya quede triste
+[20:53:49] [Server thread/INFO]: <Zatanna917> no seas asi
+[20:53:50] [Server thread/INFO]: <Zatanna917> :c
+[20:53:55] [Server thread/INFO]: [Not Secure] <CGreens> weno ta
+[20:53:55] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[20:53:59] [Server thread/INFO]: [Not Secure] <CGreens> dame vip y mod
+[20:54:00] [Server thread/INFO]: [Not Secure] <CGreens> unu
+[20:54:07] [Server thread/INFO]: [Not Secure] <CGreens> pero ya lo que dijiste me puso mal
+[20:54:08] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:54:28] [Server thread/INFO]: <Zatanna917> ok
+[20:54:28] [Server thread/INFO]: <Zatanna917> :3
+[20:54:35] [Server thread/INFO]: <Zatanna917> wa
+[20:54:36] [Server thread/INFO]: <Zatanna917> :c
+[20:54:36] [Server thread/INFO]: <Zatanna917> pq
+[20:54:41] [Server thread/INFO]: <Zatanna917> sino lo dije en ese sentido
+[20:54:44] [Server thread/INFO]: <Zatanna917> y tu lo sabes unu
+[20:54:44] [Server thread/INFO]: [Not Secure] <CGreens> como "otra persona"
+[20:54:46] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:54:50] [Server thread/INFO]: [Not Secure] <CGreens> soy uno mas
+[20:54:51] [Server thread/INFO]: [Not Secure] <CGreens> waaa
+[20:55:31] [Server thread/INFO]: <Zatanna917> :(
+[20:55:39] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:55:57] [Server thread/INFO]: <Zatanna917> pq eres asi
+[20:55:58] [Server thread/INFO]: <Zatanna917> :c
+[20:55:58] [Server thread/INFO]: [Not Secure] <CGreens> nu era especial para ti? :,ccc
+[20:56:02] [Server thread/INFO]: <Zatanna917> lo eres
+[20:56:06] [Server thread/INFO]: <Zatanna917> pero no es justo unu
+[20:56:14] [Server thread/INFO]: [Not Secure] <CGreens> esta bien waaaa
+[20:56:16] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[20:56:18] [Server thread/INFO]: [Not Secure] <CGreens> al menos
+[20:56:23] [Server thread/INFO]: [Not Secure] <CGreens> me puedes hacer un rol especial?
+[20:56:24] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:56:53] [Server thread/INFO]: [Not Secure] <CGreens> :x
+[20:56:54] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[20:56:56] [Server thread/INFO]: <Zatanna917> _.c
+[20:57:04] [Server thread/INFO]: <Zatanna917> como cual?
+[20:57:05] [Server thread/INFO]: <Zatanna917> :p
+[20:57:09] [Server thread/INFO]: [Not Secure] <CGreens> sucio
+[20:57:10] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[20:57:14] [Server thread/INFO]: [Not Secure] <CGreens> mas el mod y vip
+[20:57:15] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:57:17] [Server thread/INFO]: <Zatanna917> :cuy:
+[20:57:21] [Server thread/INFO]: [Not Secure] <CGreens> oke
+[20:57:22] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[20:57:26] [Server thread/INFO]: <Zatanna917> te dare rol cuy
+[20:57:27] [Server thread/INFO]: <Zatanna917> :p
+[20:57:33] [Server thread/INFO]: [Not Secure] <CGreens> mas vip y mod
+[20:57:34] [Server thread/INFO]: [Not Secure] <CGreens> >:3
+[20:57:56] [Server thread/INFO]: [Not Secure] <CGreens> chi? :c
+[20:58:24] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[20:58:36] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[20:58:38] [Server thread/INFO]: [Not Secure] <CGreens> miraaaa
+[20:58:46] [Server thread/INFO]: <Zatanna917> oh
+[20:58:49] [Server thread/INFO]: <Zatanna917> me olvide de ponerle balas
+[20:58:57] [Server thread/INFO]: [Not Secure] <CGreens> hay terrible mutante
+[21:00:13] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:00:21] [Server thread/INFO]: [Not Secure] <CGreens> oie
+[21:00:22] [Server thread/INFO]: <Zatanna917> quiero hacer trencitos :c
+[21:00:22] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:00:25] [Server thread/INFO]: <Zatanna917> q
+[21:00:25] [Server thread/INFO]: <Zatanna917> :3
+[21:00:30] [Server thread/INFO]: [Not Secure] <CGreens> se que te lo digo siempre
+[21:00:32] [Server thread/INFO]: [Not Secure] <CGreens> perp
+[21:00:34] [Server thread/INFO]: [Not Secure] <CGreens> te quiero mucho
+[21:00:35] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:00:40] [Server thread/INFO]: <Zatanna917> yo tambien cola sucia :3
+[21:00:56] [Server thread/INFO]: [Not Secure] <CGreens> los trenes despues
+[21:00:57] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[21:01:03] [Server thread/INFO]: [Not Secure] <CGreens> primero armo la zona
+[21:01:13] [Server thread/INFO]: <Zatanna917> tu entiendes el create?
+[21:01:17] [Server thread/INFO]: [Not Secure] <CGreens> se
+[21:01:22] [Server thread/INFO]: [Not Secure] <CGreens> solo necesito crafteos
+[21:01:23] [Server thread/INFO]: [Not Secure] <CGreens> digo
+[21:01:28] [Server thread/INFO]: [Not Secure] <CGreens> miro maquinas siempre
+[21:01:29] [Server thread/INFO]: [Not Secure] <CGreens> qwq
+[21:01:35] [Server thread/INFO]: [Not Secure] <CGreens> las unidades y eso los se
+[21:01:56] [Server thread/INFO]: <Zatanna917> ps aqui hay que armas mas maquinas
+[21:02:02] [Server thread/INFO]: <Zatanna917> puedes hacer maquina para hacer granja de hierro
+[21:02:07] [Server thread/INFO]: [Not Secure] <CGreens> si lo vi
+[21:02:08] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:02:11] [Server thread/INFO]: [Not Secure] <CGreens> tambien taladros
+[21:02:14] [Server thread/INFO]: [Not Secure] <CGreens> y otras vergas
+[21:02:23] [Server thread/INFO]: [Not Secure] <CGreens> con eso quiero hacer tuneles
+[21:02:27] [Server thread/INFO]: [Not Secure] <CGreens> para los trenes
+[21:02:28] [Server thread/INFO]: [Not Secure] <CGreens> >.3
+[21:02:53] [Server thread/INFO]: <Zatanna917> encima puedes hacer tu mismo la trenes
+[21:02:54] [Server thread/INFO]: <Zatanna917> :3
+[21:02:59] [Server thread/INFO]: <Zatanna917> con bloques y hacerlos funcional
+[21:03:02] [Server thread/INFO]: [Not Secure] <CGreens> chi
+[21:03:03] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:03:15] [Server thread/INFO]: [Not Secure] <CGreens> tambien creo q carriles
+[21:03:21] [Server thread/INFO]: [Not Secure] <CGreens> y podriamos montar los aviones y todo
+[21:03:22] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[21:04:07] [Server thread/INFO]: [Not Secure] <CGreens> por eso aplano tanto
+[21:04:09] [Server thread/INFO]: [Zatanna917: Gave 300 [Torch] to Zatanna917]
+[21:04:11] [Server thread/INFO]: [Not Secure] <CGreens> pq necesito espacio
+[21:04:47] [Server thread/INFO]: [Not Secure] <CGreens> ah y trata de no dormir tan tarde si? :c
+[21:04:52] [Server thread/INFO]: [Not Secure] <CGreens> entiendo que tienes la emocion del sv
+[21:04:54] [Server thread/INFO]: [Not Secure] <CGreens> pero
+[21:04:57] [Server thread/INFO]: [Not Secure] <CGreens> tambien cuidate
+[21:04:58] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:05:11] [Server thread/INFO]: <Zatanna917> ,.c
+[21:05:26] [Server thread/INFO]: [Not Secure] <CGreens> no lo digo por capricho
+[21:05:31] [Server thread/INFO]: [Not Secure] <CGreens> lo digo pq me preocupas
+[21:05:32] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:05:40] [Server thread/INFO]: <Zatanna917> :3
+[21:05:44] [Server thread/INFO]: <Zatanna917> okey cola sucia
+[21:05:46] [Server thread/INFO]: [Not Secure] <CGreens> un abrazo
+[21:05:47] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:06:00] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[21:06:08] [Server thread/INFO]: <Zatanna917> :d
+[21:06:10] [Server thread/INFO]: <Zatanna917> :d
+[21:06:11] [Server thread/INFO]: <Zatanna917> :D
+[21:06:13] [Server thread/INFO]: [Not Secure] <CGreens> :33
+[21:06:58] [Server thread/INFO]: <Zatanna917> como vas a hacer el fuerte?
+[21:07:08] [Server thread/INFO]: [Not Secure] <CGreens> mmmm
+[21:07:16] [Server thread/INFO]: [Not Secure] <CGreens> no se si quieres tipo
+[21:07:22] [Server thread/INFO]: [Not Secure] <CGreens> asi elegante o
+[21:07:27] [Server thread/INFO]: [Not Secure] <CGreens> al rustico
+[21:07:30] [Server thread/INFO]: [Not Secure] <CGreens> o militar
+[21:07:36] [Server thread/INFO]: <Zatanna917> ps militar si quieres
+[21:07:40] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:07:40] [Server thread/INFO]: [Not Secure] <CGreens> okee
+[21:08:04] [Server thread/INFO]: [Not Secure] <CGreens> ah
+[21:08:12] [Server thread/INFO]: [Not Secure] <CGreens> despues me pasas tu skin de minecraft?
+[21:08:17] [Server thread/INFO]: <Zatanna917> pa q
+[21:08:19] [Server thread/INFO]: <Zatanna917> >:c
+[21:08:23] [Server thread/INFO]: [Not Secure] <CGreens> pq quiero hacerlas con ropa militar
+[21:08:24] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:08:29] [Server thread/INFO]: [Not Secure] <CGreens> asi pegan cn el estilo
+[21:08:34] [Server thread/INFO]: <Zatanna917> ok :p
+[21:08:36] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[21:08:57] [Server thread/INFO]: [Not Secure] <CGreens> :DDDDDDDD
+[21:10:00] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[21:10:11] [Server thread/INFO]: [Not Secure] <CGreens> ah y como me entero de las cosas de staff si soy mod
+[21:10:12] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:10:21] [Server thread/INFO]: <Zatanna917> :,3
+[21:10:27] [Server thread/INFO]: <Zatanna917> si puedes
+[21:10:31] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[21:10:37] [Server thread/INFO]: [Not Secure] <CGreens> pero nu era q alguas cosas no podia
+[21:10:38] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:10:43] [Server thread/INFO]: <Zatanna917> sip
+[21:10:46] [Server thread/INFO]: <Zatanna917> algunas cosas no
+[21:10:51] [Server thread/INFO]: [Not Secure] <CGreens> :,cccc
+[21:10:51] [Server thread/INFO]: <Zatanna917> como el historial de ticket
+[21:11:02] [Server thread/INFO]: [Not Secure] <CGreens> pero no deberia saber eso?
+[21:11:07] [Server thread/INFO]: <Zatanna917> eso queda pa admin y owner para analizar si hicieron bien o nop
+[21:11:25] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:11:26] [Server thread/INFO]: [Not Secure] <CGreens> okei
+[21:11:27] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[21:11:53] [Server thread/INFO]: [Not Secure] <CGreens> espero y si cumplas lo que dijiste un,u
+[21:12:29] [Server thread/INFO]: <Zatanna917> :3
+[21:12:45] [Server thread/INFO]: [Not Secure] <CGreens> tonces si? :,c
+[21:12:56] [Server thread/INFO]: <Zatanna917> si
+[21:12:56] [Server thread/INFO]: <Zatanna917> :3
+[21:13:04] [Server thread/INFO]: [Not Secure] <CGreens> :,D
+[21:13:42] [Server thread/INFO]: Zatanna917 has made the advancement [We Need to Go Deeper]
+[21:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[21:13:59] [Server thread/INFO]: [Not Secure] <CGreens> tas en el netner?
+[21:14:00] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[21:14:03] [Server thread/INFO]: <Zatanna917> siu
+[21:14:20] [Server thread/INFO]: CGreens has made the advancement [Cover Me with Diamonds]
+[21:14:22] [Server thread/INFO]: [Not Secure] <CGreens> :oooo
+[21:14:33] [Server thread/INFO]: [Not Secure] <CGreens> me solto una pechera
+[21:14:36] [Server thread/INFO]: [Not Secure] <CGreens> pero ta destruida
+[21:14:38] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[21:15:22] [Server thread/INFO]: <Zatanna917> :3
+[21:15:24] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[21:20:05] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[21:20:08] [Server thread/INFO]: [Not Secure] <CGreens> cas me matas
+[21:20:09] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[21:20:31] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:22:27] [Server thread/INFO]: CGreens has made the advancement [We Need to Go Deeper]
+[21:23:12] [Server thread/INFO]: CGreens has made the advancement [Downer]
+[21:31:15] [Server thread/INFO]: <Zatanna917> :,c
+[21:31:16] [Server thread/INFO]: <Zatanna917> oa
+[21:31:19] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:31:24] [Server thread/INFO]: [Not Secure] <CGreens> q pasu q tabas afk
+[21:31:25] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:31:33] [Server thread/INFO]: <Zatanna917> mi hermanito me vino a molestar
+[21:31:34] [Server thread/INFO]: <Zatanna917> wa
+[21:31:38] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:31:40] [Server thread/INFO]: [Not Secure] <CGreens> ta bien
+[21:31:41] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:38:52] [Server thread/INFO]: <Zatanna917> :,3
+[21:39:21] [Server thread/INFO]: <Zatanna917> :o
+[21:39:24] [Server thread/INFO]: <Zatanna917> gracias <3333
+[21:42:22] [Server thread/INFO]: [Not Secure] <CGreens> :DDDDD
+[21:42:41] [Server thread/INFO]: <Zatanna917> :,.3
+[21:43:39] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:43:47] [Server thread/INFO]: [Not Secure] <CGreens> pega 64 de daño por tiro
+[21:43:48] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[21:44:12] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:44:18] [Server thread/INFO]: <Zatanna917> :33333
+[21:44:24] [Server thread/INFO]: [Not Secure] <CGreens> mua
+[21:44:25] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[21:44:36] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[21:45:45] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:45:47] [Server thread/INFO]: <Zatanna917> :3
+[21:47:16] [Server thread/INFO]: Zatanna917 has made the advancement [Downer]
+[21:47:22] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[21:47:27] [Server thread/INFO]: <Zatanna917> :3
+[21:47:41] [Server thread/INFO]: Zatanna917 was slain by Piglin
+[21:47:44] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[21:47:45] [Server thread/INFO]: <Zatanna917> wa
+[21:47:45] [Server thread/INFO]: [Not Secure] <CGreens> waa
+[21:47:57] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -12, 77, 87, minecraft:the_nether
+[21:48:03] [Server thread/INFO]: CGreens was slain by Piglin
+[21:48:13] [Server thread/INFO]: Locating element minecraft:fortress took 1 ms
+[21:48:14] [Server thread/INFO]: <Zatanna917> WA
+[21:48:16] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -118, 69, 717, minecraft:overworld
+[21:48:25] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -383.500000, 80.000000, 352.500000]
+[21:48:28] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -383.500000, 80.000000, 352.500000]
+[21:48:32] [Server thread/INFO]: Zatanna917 suffocated in a wall
+[21:48:36] [Server thread/INFO]: <Zatanna917> WA
+[21:48:41] [Server thread/INFO]: [Not Secure] <CGreens> q pasa
+[21:48:42] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[21:48:47] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[21:48:48] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -383.500000, 80.000000, 352.500000]
+[21:48:49] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -384, 80, 352, minecraft:the_nether
+[21:49:08] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -383.500000, 100.000000, 352.500000]
+[21:49:27] [Server thread/INFO]: [Zatanna917: Set own game mode to Spectator Mode]
+[21:49:31] [Server thread/INFO]: Zatanna917 has made the advancement [A Terrible Fortress]
+[21:49:36] [Server thread/INFO]: [Not Secure] <CGreens> :ooo
+[21:49:37] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[21:49:38] [Server thread/INFO]: <Zatanna917> :o
+[21:49:41] [Server thread/INFO]: [Not Secure] <CGreens> trae varas
+[21:49:42] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:50:07] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[21:50:24] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[21:50:33] [Server thread/INFO]: Zatanna917 has made the advancement [Into Fire]
+[21:51:02] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[21:51:08] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[21:51:42] [Server thread/INFO]: CGreens was slain by Elite Zombie
+[21:51:44] [Server thread/INFO]: <Zatanna917> WA
+[21:51:46] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[21:51:46] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[21:51:48] [Server thread/INFO]: [Not Secure] <CGreens> waa
+[21:52:06] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[21:52:06] [Server thread/WARN]: CGreens moved wrongly!
+[21:52:13] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -214, 81, 843, minecraft:overworld
+[21:52:13] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[21:52:15] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[21:52:42] [Server thread/INFO]: <Zatanna917> :o
+[21:52:44] [Server thread/INFO]: [Not Secure] <CGreens> :oo
+[21:52:47] [Server thread/INFO]: [Not Secure] <CGreens> usalo
+[21:52:48] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:52:48] [Server thread/INFO]: Zatanna917 has made the advancement [Cover Me with Diamonds]
+[21:52:59] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[21:53:05] [Server thread/INFO]: <Zatanna917> ta roto
+[21:53:09] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[21:53:14] [Server thread/INFO]: CGreens was shot by Zatanna917
+[21:53:16] [Server thread/INFO]: <Zatanna917> WA
+[21:53:22] [Server thread/INFO]: [Not Secure] <CGreens> WA
+[21:53:30] [Server thread/INFO]: Zatanna917 was blown up by Creeper
+[21:53:34] [Server thread/INFO]: <Zatanna917> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[21:53:37] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -199.500000, 81.000000, 853.500000]
+[21:53:41] [Server thread/INFO]: CGreens was blown up by Creeper
+[21:53:41] [Server thread/INFO]: Did not backup data (grave data empty)
+[21:53:42] [Server thread/INFO]: <Zatanna917> :,c
+[21:53:47] [Server thread/INFO]: Zatanna917 was blown up by Creeper
+[21:53:47] [Server thread/INFO]: [Not Secure] <CGreens> mejor durmamos
+[21:53:49] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[21:53:51] [Server thread/INFO]: <Zatanna917> WA
+[21:53:57] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:54:01] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -199.500000, 81.000000, 853.500000]
+[21:54:01] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -201, 81, 853, minecraft:overworld
+[21:54:03] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at -200, 81, 853, minecraft:overworld
+[21:54:08] [Server thread/INFO]: <Zatanna917> cuanta tistesa
+[21:54:09] [Server thread/INFO]: <Zatanna917> :,c
+[21:54:14] [Server thread/WARN]: CGreens moved wrongly!
+[21:54:21] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[21:54:23] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -198, 80, 860, minecraft:overworld
+[21:54:26] [Server thread/INFO]: [Not Secure] <CGreens> nu pasa nada
+[21:54:28] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:54:31] [Server thread/INFO]: <Zatanna917> :,3
+[21:54:37] [Server thread/INFO]: [Not Secure] <CGreens> dale click derecho a los arboles
+[21:54:40] [Server thread/INFO]: [Not Secure] <CGreens> dan manzanas
+[21:54:41] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[21:55:02] [Server thread/INFO]: <Zatanna917> :o
+[21:55:17] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[21:55:43] [Server thread/INFO]: CGreens was shot by Yeeter Gravity Withering Ender Skeleton
+[21:55:46] [Server thread/WARN]: CGreens moved too quickly! -1.3966845870002658,10.29670347109274,1.9994026564033902
+[21:55:50] [Server thread/INFO]: <Zatanna917> D;
+[21:55:51] [Server thread/INFO]: <Zatanna917> WA
+[21:55:53] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[21:55:57] [Server thread/INFO]: [Not Secure] <CGreens> es un mini boss
+[21:55:57] [Server thread/INFO]: <Zatanna917> TISTESA
+[21:56:03] [Server thread/INFO]: [Not Secure] <CGreens> ta bieeen
+[21:56:04] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[21:56:11] [Server thread/INFO]: [Zatanna917: Gave 30 [Iron Ingot] to Zatanna917]
+[21:56:12] [Server thread/INFO]: [Zatanna917: Gave 300 [Iron Ingot] to Zatanna917]
+[21:56:24] [Server thread/WARN]: CGreens moved too quickly! -9.191923756662703,-1.0,5.147028698464396
+[21:56:28] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -258, 75, 868, minecraft:overworld
+[21:57:26] [Server thread/WARN]: CGreens moved wrongly!
+[21:59:13] [Server thread/INFO]: <Zatanna917> cola sucia :,c
+[21:59:14] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[21:59:17] [Server thread/INFO]: [Not Secure] <CGreens> dime
+[21:59:17] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[21:59:22] [Server thread/INFO]: [Not Secure] <CGreens> :ooooooo
+[21:59:31] [Server thread/INFO]: [Not Secure] <CGreens> :333333333
+[21:59:32] [Server thread/INFO]: <Zatanna917> no hay cobre
+[21:59:32] [Server thread/INFO]: [Not Secure] <CGreens> grasiaaas
+[21:59:34] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[21:59:36] [Server thread/INFO]: <Zatanna917> ni polvora
+[21:59:36] [Server thread/INFO]: <Zatanna917> uwu
+[21:59:40] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[21:59:41] [Server thread/INFO]: [Not Secure] <CGreens> nu pasa nada
+[21:59:44] [Server thread/INFO]: [Not Secure] <CGreens> lo conseguimos
+[21:59:46] [Server thread/INFO]: [Not Secure] <CGreens> >:3
+[22:00:03] [Server thread/WARN]: Zatanna917 moved too quickly! 0.01723031849857648,-2.6754387601295093,-10.049216205880839
+[22:00:03] [Server thread/WARN]: CGreens moved too quickly! 7.367563730310792,1.7012968536522237,6.976283049835956
+[22:00:51] [Server thread/WARN]: Zatanna917 moved too quickly! 0.3346329530018579,-0.24785109963254115,-10.297574102705994
+[22:01:04] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:01:04] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:01:10] [Server thread/INFO]: [Not Secure] <CGreens> despues busco si hay algunos addons mas de este mod
+[22:01:11] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:02:03] [Server thread/WARN]: CGreens moved wrongly!
+[22:02:36] [Server thread/INFO]: CGreens was slain by Elite Zombie
+[22:02:41] [Server thread/INFO]: <Zatanna917> D:
+[22:02:42] [Server thread/INFO]: <Zatanna917> WA
+[22:02:43] [Server thread/INFO]: [Not Secure] <CGreens> AAAA
+[22:02:46] [Server thread/INFO]: [Not Secure] <CGreens> me meti a una cueva
+[22:02:47] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:02:51] [Server thread/INFO]: <Zatanna917> WA
+[22:02:52] [Server thread/INFO]: <Zatanna917> :,c
+[22:02:59] [Server thread/INFO]: [Not Secure] <CGreens> 122 61 1990
+[22:03:03] [Server thread/INFO]: [Not Secure] <CGreens> 133
+[22:03:05] [Server thread/INFO]: [Not Secure] <CGreens> *
+[22:03:10] [Server thread/INFO]: [Zatanna917: Teleported CGreens to 133.500000, 61.000000, 1990.500000]
+[22:03:14] [Server thread/INFO]: CGreens was slain by Elite Zombie
+[22:03:14] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:03:16] [Server thread/INFO]: <Zatanna917> WA
+[22:03:20] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[22:03:27] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to 133.500000, 61.000000, 1990.500000]
+[22:03:36] [Server thread/INFO]: [Zatanna917: Teleported CGreens to 133.500000, 61.000000, 1990.500000]
+[22:03:37] [Server thread/INFO]: Zatanna917 was blown up by Creeper
+[22:03:39] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:03:39] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at 133, 61, 1990, minecraft:overworld
+[22:03:39] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:03:41] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to 138.500000, 63.000000, 1975.500000]
+[22:03:43] [Server thread/INFO]: Zatanna917 claimed a grave belonging to Zatanna917 at 139, 63, 1975, minecraft:overworld
+[22:03:53] [Server thread/INFO]: [Not Secure] <CGreens> D:
+[22:04:04] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:04:04] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:04:47] [Server thread/INFO]: CGreens was slain by Elite Zombie
+[22:05:00] [Server thread/INFO]: CGreens claimed a grave belonging to CGreens at -121, 75, 728, minecraft:overworld
+[22:07:20] [Server thread/INFO]: CGreens has made the advancement [Into Fire]
+[22:09:24] [Server thread/INFO]: Named entity class_1613['Lethargic Resistant Starving Undying Skeleton'/54642, l='ServerLevel[world]', x=112.58, y=52.00, z=1978.50] died: Lethargic Resistant Starving Undying Skeleton was shot by Zatanna917
+[22:09:31] [Server thread/INFO]: <Zatanna917> :o
+[22:09:46] [Server thread/INFO]: [Not Secure] <CGreens> q pasu
+[22:09:47] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:09:58] [Server thread/INFO]: [Not Secure] <CGreens> :ooooooo
+[22:09:58] [Server thread/INFO]: <Zatanna917> me lo solto un mini jefe
+[22:10:07] [Server thread/INFO]: [Not Secure] <CGreens> nos sirve
+[22:10:08] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[22:10:34] [Server thread/INFO]: [Not Secure] <CGreens> mira el epic knights
+[22:10:39] [Server thread/INFO]: [Not Secure] <CGreens> trata de hacerte armadura de ese mod
+[22:10:46] [Server thread/INFO]: [Not Secure] <CGreens> pq no encontre otro mod de armaduras
+[22:10:46] [Server thread/INFO]: [Not Secure] <CGreens> qwq
+[22:11:31] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:12:48] [Server thread/INFO]: <Zatanna917> ?
+[22:12:58] [Server thread/INFO]: [Not Secure] <CGreens> ya no hay horda
+[22:12:59] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[22:14:01] [Server thread/INFO]: [Not Secure] <CGreens> se ve rarisima la animacion del ender
+[22:14:03] [Server thread/INFO]: [Not Secure] <CGreens> la viste
+[22:14:04] [Server thread/INFO]: [Not Secure] <CGreens> jsjssj
+[22:14:25] [Server thread/INFO]: <Zatanna917> :3
+[22:15:14] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[22:15:20] [Server thread/INFO]: [Not Secure] <CGreens> tas en la mina?
+[22:15:31] [Server thread/INFO]: <Zatanna917> se
+[22:15:36] [Server thread/INFO]: [Not Secure] <CGreens> oke :e
+[22:15:38] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:16:10] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:18:49] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[22:19:12] [Server thread/WARN]: CGreens was kicked for floating too long!
+[22:19:12] [Server thread/INFO]: CGreens lost connection: Flying is not enabled on this server
+[22:19:12] [Server thread/INFO]: CGreens left the game
+[22:19:12] [Server thread/WARN]: handleDisconnection() called twice
+[22:19:19] [User Authenticator #4/INFO]: UUID of player CGreens is 743142f2-4877-476a-a634-d5fecb04ce0d
+[22:19:20] [Server thread/INFO]: CGreens[/100.94.215.30:51240] logged in with entity id 61938 at (-175.08173605832744, 76.24918707874468, 684.2482213473653)
+[22:19:20] [Server thread/INFO]: Sending server config values to client
+[22:19:20] [Server thread/INFO]: Loading config from file...
+[22:19:20] [Server thread/INFO]: CGreens joined the game
+[22:19:21] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[22:19:21] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player CGreens. Claiming: GRAVE / Robbing: INVENTORY
+[22:20:19] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[22:21:17] [Server thread/INFO]: <Zatanna917> :3
+[22:21:20] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:21:22] [Server thread/INFO]: [Not Secure] <CGreens> mua
+[22:21:34] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:24:08] [Server thread/INFO]: <Zatanna917> esmeralda :o
+[22:24:16] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[22:24:22] [Server thread/INFO]: [Not Secure] <CGreens> tenemos que atraer aldeanos
+[22:24:23] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:28:52] [Server thread/INFO]: [Zatanna917: Set own game mode to Spectator Mode]
+[22:29:07] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[22:29:09] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:29:15] [Server thread/INFO]: <Zatanna917> amatista :o
+[22:29:19] [Server thread/INFO]: [Not Secure] <CGreens> :ooo
+[22:29:21] [Server thread/INFO]: [Not Secure] <CGreens> traeee
+[22:29:31] [Server thread/INFO]: [Not Secure] <CGreens> pq lo necesito pa las armas
+[22:29:34] [Server thread/INFO]: [Not Secure] <CGreens> y pal create
+[22:29:34] [Server thread/INFO]: [Not Secure] <CGreens> qwq
+[22:30:11] [Server thread/INFO]: <Zatanna917> casi ni tiene fragmentos
+[22:30:16] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:31:43] [Server thread/INFO]: Named entity class_1548['Duplicator Ender Creeper'/67827, l='ServerLevel[world]', x=-96.53, y=77.00, z=726.06] died: death.attack.turret_gauss_bullet
+[22:36:01] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:37:49] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[22:38:32] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[22:39:17] [Server thread/INFO]: [Not Secure] <CGreens> wapa
+[22:39:19] [Server thread/INFO]: [Not Secure] <CGreens> hazme tp
+[22:39:21] [Server thread/INFO]: [Not Secure] <CGreens> >:3
+[22:39:22] [Server thread/INFO]: <Zatanna917> q
+[22:39:27] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[22:39:30] [Server thread/INFO]: <Zatanna917> WA
+[22:39:33] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[22:39:34] [Server thread/INFO]: [Not Secure] <CGreens> wqa
+[22:39:37] [Server thread/INFO]: <Zatanna917> WAA
+[22:39:40] [Server thread/INFO]: [Not Secure] <CGreens> :CCCC
+[22:39:48] [Server thread/INFO]: [Not Secure] <CGreens> pero
+[22:39:49] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:39:51] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:39:52] [Server thread/INFO]: [Zatanna917: Set own game mode to Spectator Mode]
+[22:40:12] [Server thread/INFO]: [Not Secure] <CGreens> te keria dar algooo waa
+[22:40:45] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[22:40:47] [Server thread/INFO]: [Zatanna917: Teleported CGreens to Zatanna917]
+[22:40:52] [Server thread/INFO]: <Zatanna917> mi dron D:
+[22:40:55] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:40:58] [Server thread/INFO]: <Zatanna917> WA
+[22:41:13] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:41:16] [Server thread/INFO]: <Zatanna917> :c
+[22:41:19] [Server thread/INFO]: [Not Secure] <CGreens> te kiero dar algo
+[22:41:20] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[22:41:23] [Server thread/INFO]: <Zatanna917> habe
+[22:41:24] [Server thread/INFO]: <Zatanna917> :3
+[22:41:30] [Server thread/INFO]: <Zatanna917> :o
+[22:41:34] [Server thread/INFO]: [Not Secure] <CGreens> el arma argentina
+[22:41:34] [Server thread/INFO]: <Zatanna917> un fal
+[22:41:35] [Server thread/INFO]: [Not Secure] <CGreens> >:3
+[22:41:38] [Server thread/INFO]: <Zatanna917> los e
+[22:41:38] [Server thread/INFO]: <Zatanna917> :3
+[22:41:40] [Server thread/INFO]: [Not Secure] <CGreens> :3333
+[22:41:55] [Server thread/INFO]: [Not Secure] <CGreens> me pasas la muni 556
+[22:41:56] [Server thread/INFO]: [Not Secure] <CGreens> qwq
+[22:42:13] [Server thread/INFO]: <Zatanna917> qwp
+[22:42:20] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:42:27] [Server thread/INFO]: <Zatanna917> mi dron :c
+[22:42:32] [Server thread/INFO]: [Not Secure] <CGreens> :,c
+[22:42:36] [Server thread/INFO]: [Not Secure] <CGreens> despues usa el mio
+[22:42:39] [Server thread/INFO]: [Not Secure] <CGreens> :,3
+[22:42:40] [Server thread/INFO]: <Zatanna917> aqui ta
+[22:42:41] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[22:42:44] [Server thread/INFO]: [Not Secure] <CGreens> guardalo
+[22:43:17] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[22:43:17] [Server thread/INFO]: <Zatanna917> cola sucia
+[22:43:18] [Server thread/INFO]: <Zatanna917> mira
+[22:43:38] [Server thread/INFO]: [Not Secure] <CGreens> ooo
+[22:44:17] [Server thread/INFO]: [Not Secure] <CGreens> necesitamos toque de seda
+[22:44:32] [Server thread/INFO]: [Not Secure] <CGreens> nu tengo muchi
+[22:44:33] [Server thread/INFO]: [Not Secure] <CGreens> :c
+[22:44:47] [Server thread/INFO]: [Not Secure] <CGreens> como volvemo a casa
+[22:44:48] [Server thread/INFO]: [Not Secure] <CGreens> wa
+[22:45:21] [Server thread/INFO]: [Zatanna917: Teleported CGreens to -175.500000, 80.000000, 700.500000]
+[22:45:22] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:45:22] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[22:45:26] [Server thread/INFO]: [Not Secure] <CGreens> y
+[22:45:28] [Server thread/INFO]: [Not Secure] <CGreens> ay
+[22:45:30] [Server thread/INFO]: <Zatanna917> q
+[22:45:37] [Server thread/INFO]: [Not Secure] <CGreens> nd uwu
+[22:45:45] [Server thread/INFO]: [Zatanna917: Teleported CGreens to -114.500000, 75.000000, 700.500000]
+[22:45:52] [Server thread/INFO]: <Zatanna917> tas serca?
+[22:45:57] [Server thread/INFO]: [Not Secure] <CGreens> estoy justo
+[22:45:59] [Server thread/INFO]: [Not Secure] <CGreens> uwu
+[22:46:01] [Server thread/INFO]: [Not Secure] <CGreens> gracias
+[22:46:41] [Server thread/INFO]: <Zatanna917> ok
+[22:46:44] [Server thread/INFO]: <Zatanna917> :3
+[22:46:45] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[22:48:38] [Server thread/INFO]: [Zatanna917: Gave 300 [Torch] to Zatanna917]
+[22:48:40] [Server thread/INFO]: [Not Secure] <CGreens> owo
+[22:48:56] [Server thread/INFO]: <Zatanna917> :3
+[22:51:41] [Server thread/WARN]: CGreens moved wrongly!
+[22:51:41] [Server thread/WARN]: CGreens moved wrongly!
+[22:53:12] [Server thread/INFO]: [Not Secure] <CGreens> no tenemos polvora
+[22:53:16] [Server thread/INFO]: [Not Secure] <CGreens> qwp
+[22:53:19] [Server thread/INFO]: <Zatanna917> :c
+[22:53:26] [Server thread/INFO]: [Not Secure] <CGreens> ire a matar
+[22:53:27] [Server thread/INFO]: [Not Secure] <CGreens> >:3
+[22:55:49] [Server thread/WARN]: CGreens moved wrongly!
+[22:55:49] [Server thread/WARN]: CGreens moved wrongly!
+[22:55:50] [Server thread/WARN]: CGreens moved wrongly!
+[22:55:57] [Server thread/WARN]: CGreens moved wrongly!
+[22:57:42] [Server thread/WARN]: CGreens moved wrongly!
+[22:57:51] [Server thread/WARN]: CGreens moved too quickly! 7.5633010647180186,-0.08609407931551516,7.525098062073312
+[22:58:09] [Server thread/INFO]: Named entity class_1642['Stormy Withering Zombie'/80453, l='ServerLevel[world]', x=89.80, y=-45.00, z=1837.64] died: Stormy Withering Zombie was shot by Zatanna917
+[22:58:14] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[22:58:27] [Worker-Main-141/ERROR]: Hanging entity at invalid position: class_2338{x=-4, y=59, z=8}
+[22:58:55] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[22:59:50] [Server thread/WARN]: CGreens moved wrongly!
+[23:00:02] [Server thread/WARN]: CGreens moved wrongly!
+[23:00:04] [Server thread/WARN]: CGreens moved wrongly!
+[23:00:06] [Server thread/WARN]: CGreens moved wrongly!
+[23:02:12] [Server thread/WARN]: CGreens moved too quickly! -1.1206166249483118,1.0013359791121417,-9.978274530644285
+[23:02:42] [Server thread/WARN]: CGreens moved wrongly!
+[23:03:00] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[23:03:00] [Server thread/WARN]: Unable to add mob to team "" (that team probably doesn't exist)
+[23:03:19] [Server thread/WARN]: CGreens moved wrongly!
+[23:03:19] [Server thread/WARN]: CGreens moved wrongly!
+[23:03:21] [Server thread/WARN]: CGreens moved wrongly!
+[23:03:57] [Server thread/INFO]: [Not Secure] <CGreens> son las 8 y aca parecen las 6 todavia
+[23:03:59] [Server thread/INFO]: [Not Secure] <CGreens> wtf
+[23:04:01] [Server thread/INFO]: <Zatanna917> xd
+[23:04:06] [Server thread/INFO]: [Not Secure] <CGreens> y alla?
+[23:04:07] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:04:07] [Server thread/INFO]: <Zatanna917> x2
+[23:04:12] [Server thread/INFO]: [Not Secure] <CGreens> fua
+[23:04:19] [Server thread/INFO]: [Not Secure] <CGreens> q cosa el verano
+[23:04:27] [Server thread/INFO]: [Not Secure] <CGreens> me levanto a las 7 am pensando q son las 10
+[23:04:30] [Server thread/INFO]: [Not Secure] <CGreens> puto sol
+[23:05:51] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to -114.500000, 76.000000, 730.500000]
+[23:06:53] [Server thread/INFO]: [Not Secure] <CGreens> alm
+[23:07:04] [Server thread/INFO]: [Not Secure] <CGreens> deletee un creeper mutante con la lmg
+[23:07:20] [Server thread/INFO]: [Not Secure] <CGreens> veeen
+[23:07:21] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:07:23] [Server thread/INFO]: [Not Secure] <CGreens> dejo huevo
+[23:07:57] [Server thread/INFO]: <Zatanna917> :3
+[23:08:41] [Server thread/INFO]: [Not Secure] <CGreens> ven
+[23:08:42] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:08:57] [Server thread/WARN]: CGreens moved too quickly! -0.9619139184945027,-0.49520087700592796,-10.312944644055278
+[23:09:05] [Server thread/INFO]: <Zatanna917> :o
+[23:09:15] [Server thread/INFO]: [Not Secure] <CGreens> agarralo tu
+[23:09:16] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:10:00] [Server thread/INFO]: [Not Secure] <CGreens> q desastre
+[23:10:05] [Server thread/INFO]: <Zatanna917> :c
+[23:11:54] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:13:28] [Server thread/INFO]: [Zatanna917: Gave 1 [Mutant Skeleton Spawn Egg] to Zatanna917]
+[23:14:11] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:14:41] [Server thread/INFO]: [Not Secure] <CGreens> :o
+[23:16:27] [Server thread/INFO]: [Not Secure] <CGreens> me gusta esta pistola
+[23:16:32] [Server thread/INFO]: [Not Secure] <CGreens> tt-33
+[23:17:37] [Server thread/INFO]: [Not Secure] <CGreens> wtf
+[23:17:42] [Server thread/INFO]: [Not Secure] <CGreens> por alguna razon
+[23:17:58] [Server thread/INFO]: [Not Secure] <CGreens> las vacas, ovejas y cerdos la hitbox de la cabeza es la espalda xd
+[23:18:01] [Server thread/INFO]: [Zatanna917: Set own game mode to Creative Mode]
+[23:18:34] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[23:18:36] [Server thread/INFO]: <Zatanna917> mira >:3
+[23:18:41] [Server thread/INFO]: [Not Secure] <CGreens> voy
+[23:18:43] [Server thread/INFO]: [Not Secure] <CGreens> :D
+[23:18:52] [Server thread/INFO]: Villager class_1646['Leatherworker'/89344, l='ServerLevel[world]', x=-343.80, y=72.00, z=734.44] died, message: 'Leatherworker was shot by CGreens'
+[23:19:01] [Server thread/INFO]: <Zatanna917> mira :,c
+[23:19:01] [Server thread/INFO]: Villager class_1646['Leatherworker'/89455, l='ServerLevel[world]', x=-350.80, y=73.00, z=724.96] died, message: 'Leatherworker was shot by CGreens'
+[23:19:04] [Server thread/INFO]: [Not Secure] <CGreens> vooy
+[23:19:06] [Server thread/INFO]: [Not Secure] <CGreens> waa
+[23:19:19] [Server thread/WARN]: CGreens moved wrongly!
+[23:19:31] [Server thread/INFO]: [Not Secure] <CGreens> :3
+[23:19:44] [Server thread/INFO]: [Not Secure] <CGreens> :OOOOOOOO
+[23:20:00] [Server thread/INFO]: [Not Secure] <CGreens> hace 140 de daño
+[23:20:00] [Server thread/INFO]: [Not Secure] <CGreens> alm
+[23:20:54] [Server thread/INFO]: <Zatanna917> ?
+[23:20:56] [Server thread/INFO]: <Zatanna917> no hace nada
+[23:20:57] [Server thread/INFO]: <Zatanna917> wa
+[23:21:07] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[23:21:07] [Server thread/INFO]: CGreens lost connection: Disconnected
+[23:21:07] [Server thread/INFO]: CGreens left the game
+[23:26:45] [Server thread/INFO]: [Zatanna917: Stopping the server]
+[23:26:45] [Server thread/INFO]: Stopping server
+[23:26:45] [Server thread/INFO]: Saving players
+[23:26:45] [Server thread/INFO]: Saving worlds
+[23:26:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld11
+[23:26:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (overworld11): All chunks are saved
+[23:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:26:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
