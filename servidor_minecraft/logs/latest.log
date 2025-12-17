@@ -1,0 +1,27 @@
+[00:00:00] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[00:00:09] [Server thread/INFO]: [Zatanna917: Set own game mode to Spectator Mode]
+[00:00:29] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[00:00:47] [Server thread/INFO]: [Zatanna917: Set own game mode to Spectator Mode]
+[00:01:14] [Server thread/INFO]: [Zatanna917: Set own game mode to Survival Mode]
+[00:01:44] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[00:01:51] [Server thread/INFO]: <CGreens> :3
+[00:02:01] [Server thread/INFO]: [Zatanna917: Teleported Zatanna917 to CGreens]
+[00:02:01] [Server thread/INFO]: <Zatanna917> wa
+[00:02:02] [Server thread/INFO]: Zatanna917 lost connection: Timed out
+[00:02:02] [Server thread/INFO]: Zatanna917 left the game
+[00:02:02] [Server thread/WARN]: handleDisconnection() called twice
+[00:02:05] [Server thread/INFO]: <CGreens> :c
+[00:02:08] [User Authenticator #3/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+[00:02:09] [Server thread/INFO]: Zatanna917[/100.101.238.118:51818] logged in with entity id 27165 at (-1030.1968324462857, 32.0, -589.873136361245)
+[00:02:09] [Server thread/INFO]: Sending server config values to client
+[00:02:09] [Server thread/INFO]: Loading config from file...
+[00:02:09] [Server thread/INFO]: Zatanna917 joined the game
+[00:02:10] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:02:10] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Zatanna917. Claiming: GRAVE / Robbing: INVENTORY
+[00:02:52] [Server thread/INFO]: <Zatanna917> oa
+[00:02:53] [Server thread/INFO]: <Zatanna917> :,3
+[00:03:00] [Server thread/INFO]: <CGreens> uwu
+[00:03:16] [Server thread/INFO]: <Zatanna917> ahi vengo
+[00:03:19] [Server thread/INFO]: <CGreens> okei
+[00:03:20] [Server thread/INFO]: <CGreens> ;3
+[00:08:29] [Server thread/INFO]: CGreens has reached the goal [Perfectly Stressed]
